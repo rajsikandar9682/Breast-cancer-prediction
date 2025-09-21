@@ -34,7 +34,7 @@ A simple yet powerful classification algorithm based on Bayes' Theorem with an a
 
 The model was trained and tested successfully.
 
-Performance metrics (Accuracy, Precision, Recall, F1-score) show that the model is working properly.
+Performance metrics (Accuracy,F1-score) show that the model is working properly.
 
 
 Conclusion
